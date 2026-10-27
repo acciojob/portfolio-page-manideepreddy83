@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+body {
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+        }
+
+        img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
